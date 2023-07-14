@@ -1,4 +1,5 @@
 //your JS code here. If required.
+let str = prompt("Enter a String");
 let i = 0;
 let j = 0;
 
